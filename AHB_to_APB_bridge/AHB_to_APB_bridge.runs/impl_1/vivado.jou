@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Mar 21 01:49:01 2026
+# Process ID         : 26768
+# Current directory  : E:/AHB_to_APB_bridge/AHB_to_APB_bridge.runs/impl_1
+# Command line       : vivado.exe -log AHB_to_APB_Bridge.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source AHB_to_APB_Bridge.tcl -notrace
+# Log file           : E:/AHB_to_APB_bridge/AHB_to_APB_bridge.runs/impl_1/AHB_to_APB_Bridge.vdi
+# Journal file       : E:/AHB_to_APB_bridge/AHB_to_APB_bridge.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-2TODKSS
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz
+# CPU Frequency      : 1896 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17005 MB
+# Swap memory        : 13799 MB
+# Total Virtual      : 30805 MB
+# Available Virtual  : 5771 MB
+#-----------------------------------------------------------
+source AHB_to_APB_Bridge.tcl -notrace
