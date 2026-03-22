@@ -1,4 +1,5 @@
-FPGA-Based AHB-to-APB Bridge Using Verilog HDL, Incorporating Reduced Latency
+# FPGA-Based AHB-to-APB Bridge Using Verilog HDL, Incorporating Reduced Latency
+
 • Proposed an FPGA-based AHB-to-APB bridge achieving 25% latency reduction (4 → 3 clock cycles) using an optimized
 FSM (IDLE, READ, WRITE, R ENABLE, W
 ENABLE), enabling one-cycle SETUP and one-cycle ENABLE transfers
